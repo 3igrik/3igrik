@@ -2,9 +2,9 @@
 ---
 ### About me :)
 
-❤️️ I love programming!)
-⌛ I want to have time to do something super good in my life.
-🗔 I'm in Front-end development now
+❤️️ I love programming!) </br>
+⌛ I want to have time to doomething super good in my life. </br>
+🗔 I'm in Front-end development now </br>
 ____
 ## 🛠 Tech Stack
 
@@ -68,7 +68,7 @@ _____________
     <img src="https://cdn-icons-png.flaticon.com/512/281/281786.png" alt="gmail" width="30" height="30"/>
   </a> 
   <a href="https://t.me/Zigrik" target="_blank">
-    <img src="https://cdn-icons.flaticon.com/png/512/2673/premium/2673702.png?token=exp=1636008858~hmac=86006b27b2b9e1e2093c2e113d5b6757" alt="telegram" width="30" height="30"/>
+    <img src="https://img.icons8.com/doodle/48/000000/telegram-app.png" alt="telegram" width="30" height="30"/>
   </a>
 </p>
 
