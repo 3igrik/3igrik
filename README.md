@@ -62,6 +62,7 @@ _____________
   🏢<a href="https://github.com/3igrik/angular-test/tree/main/test-task-angular"> Company Search</a> created using: HTML5, SCSS, TypeScript, AngularJS, Webpack, ESlint, Prettier
 </p>
 _____________
+
 ### 🔗 Connect with me
 <p>
   <a href="mailto:3igrik@gmail.com" target="_blank">
