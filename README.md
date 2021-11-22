@@ -3,8 +3,8 @@
 ### About me :)
 
 ❤️️ I love programming!) </br>
-⌛ I want to have time to doomething super good in my life. </br>
-🗔 I'm in Front-end development now </br>
+⌛  I want to have time to doomething super good in my life. </br>
+🗔  I'm in Front-end development now </br>
 ____
 ## 🛠 Tech Stack
 
