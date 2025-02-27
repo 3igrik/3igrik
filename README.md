@@ -69,7 +69,7 @@ _____________
   <a href="mailto:3igrik@gmail.com" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/281/281786.png" alt="gmail" width="30" height="30"/>
   </a> 
-  <a href="https://t.me/Zigrik" target="_blank">
+  <a href="https://t.me/Qigrik" target="_blank">
     <img src="https://img.icons8.com/doodle/48/000000/telegram-app.png" alt="telegram" width="30" height="30"/>
   </a>
 </p>
